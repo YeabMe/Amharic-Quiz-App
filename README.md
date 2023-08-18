@@ -1,0 +1,1 @@
+# Amharic-Quiz-App
