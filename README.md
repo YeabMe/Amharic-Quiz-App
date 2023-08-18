@@ -1,7 +1,6 @@
 # Amharic-Quiz-App
 _______________________________________________
-? Add node_modules Folder
-import 'bootstrap/dist/css/bootstrap.min.css';
+? Add node_modules Folder      # import 'bootstrap/dist/css/bootstrap.min.css';
 
 _______________________________________________
 ![question](https://github.com/YeabMe/Amharic-Quiz-App/assets/131449029/3508725e-0146-454e-b400-e924f4240dcb)
