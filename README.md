@@ -3,6 +3,8 @@ _______________________________________________
 ? Add node_modules Folder      # import 'bootstrap/dist/css/bootstrap.min.css';
 
 _______________________________________________
+![start](https://github.com/YeabMe/Amharic-Quiz-App/assets/131449029/5cef8f7b-5772-4809-b01b-90364f69fe77)
+_________________________________________________________________________________________________________________________
 ![question](https://github.com/YeabMe/Amharic-Quiz-App/assets/131449029/3508725e-0146-454e-b400-e924f4240dcb)
 ___________________________________________________________________________________________________________________________
 ![right](https://github.com/YeabMe/Amharic-Quiz-App/assets/131449029/60f57983-ceaa-4032-9eaf-23343dafecb0)
